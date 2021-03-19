@@ -43,6 +43,8 @@ How use Motorola LapDock <br>
 https://www.element14.com/community/community/raspberry-pi/blog/2012/09/27/raspberry-pi-lapdock-hdmi-cable-work-around <br>
 https://en.wikipedia.org/wiki/HDMI <br>
 
+<!--
+https://github.com/procount/pinn <br>
 https://berryterminal.com/doku.php/berryboot <br>
-
+-->
 
