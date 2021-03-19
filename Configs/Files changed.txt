@@ -1,0 +1,13 @@
+It's necessary change some file for work, because the screen Motorola LapDock don't send this information for Raspberry
+It' nessery disable automatic mode and enable manual mode with command corrects
+There're files for work well with Motorola Lapdock
+
+https://www.raspberrypi.org/forums/viewtopic.php?t=58545
+
+https://github.com/raspberrypi/noobs
+
+
+
+https://raspberrypi.stackexchange.com/questions/30024/first-time-boot-screen-configuration/30037#30037
+
+https://forum.recalbox.com/topic/7462/resolution-noobs

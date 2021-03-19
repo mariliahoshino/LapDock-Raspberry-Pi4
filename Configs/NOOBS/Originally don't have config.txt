@@ -1,0 +1,2 @@
+Originally don't have config.txt
+I copy the Raspbian boot and changed some lines
