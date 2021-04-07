@@ -1,5 +1,5 @@
 It's necessary change some file for work, because the screen Motorola LapDock don't send this information for Raspberry
-It' nessery disable automatic mode and enable manual mode with command corrects
+necessary disable automatic mode and enable manual mode with command corrects
 There're files for work well with Motorola Lapdock
 
 https://www.raspberrypi.org/forums/viewtopic.php?t=58545
