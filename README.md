@@ -19,8 +19,8 @@ The olds batteries are swollen and need changes, the maximum measurements in the
 <img src="https://github.com/mariliahoshino/LapDock-Raspberry-Pi4/blob/main/pictures/20210303_013345.jpg?raw=true" height="400" widht="400">
 
 I bought the new batteries and changed in pack <br>
-<img src="https://github.com/mariliahoshino/LapDock-Raspberry-Pi4/blob/main/pictures/change_batteries.png?raw=true" height="250" widht="250"><img src="https://github.com/mariliahoshino/LapDock-Raspberry-Pi4/blob/main/pictures/change_batteries_02.png?raw=true" height="250" widht="250">
-<img src="https://github.com/mariliahoshino/LapDock-Raspberry-Pi4/blob/main/pictures/change_batteries_03.png?raw=true" height="250" widht="250"><img src="https://github.com/mariliahoshino/LapDock-Raspberry-Pi4/blob/main/pictures/change_batteries_04.png?raw=true" height="250" widht="250">
+<img src="https://github.com/mariliahoshino/LapDock-Raspberry-Pi4/blob/main/pictures/change_batteries.png?raw=true" height="200" widht="200"><img src="https://github.com/mariliahoshino/LapDock-Raspberry-Pi4/blob/main/pictures/change_batteries_02.png?raw=true" height="200" widht="200">
+<img src="https://github.com/mariliahoshino/LapDock-Raspberry-Pi4/blob/main/pictures/change_batteries_03.png?raw=true" height="200" widht="200"><img src="https://github.com/mariliahoshino/LapDock-Raspberry-Pi4/blob/main/pictures/change_batteries_04.png?raw=true" height="200" widht="200">
 
 After I bought a Case Argon<br>
 For work well, It's necessary jump pin 17 to ground <br>
